@@ -9,7 +9,7 @@ A collection of Java solutions from real interview experiences at top companies.
 |---------|------|
 | Move Zeros to End | [movetozeroend.java](Radware/movetozeroend.java) |
 | Move Zeros to First | [movetozerofirst.java](Radware/movetozerofirst.java) |
-| Path in a Parallelogram | [pathparallelogram.java](radware/pathparallelogram.java) |
+| Path in a Parallelogram | [pathparallelogram.java](Radware/pathparallelogram.java) |
 
 ### Traczxn
 | Problem | File |
