@@ -31,6 +31,15 @@ A collection of Java solutions from real interview experiences at top companies.
 
 ---
 
+### TCS
+
+| Problem | Description | File |
+|---------|-------------|------|
+| Max and Min | Find the maximum and minimum elements in an array | [day1maxandmin.java](TCS/day1maxandmin.java) |
+| Reverse Array | Reverse and print the elements of an array | [day9reversea.java](TCS/day9reversea.java) |
+
+---
+
 ## Language
 - Java
 
