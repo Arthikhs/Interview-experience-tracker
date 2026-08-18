@@ -37,6 +37,8 @@ A collection of Java solutions from real interview experiences at top companies.
 |---------|-------------|------|
 | Max and Min | Find the maximum and minimum elements in an array | [day1maxandmin.java](TCS/day1maxandmin.java) |
 | Reverse Array | Reverse and print the elements of an array | [day9reversea.java](TCS/day9reversea.java) |
+| Second Largest | Find the second largest element in an array | [day4secondlargest.java](TCS/day4secondlargest.java) |
+| Convert to Hex | Convert an integer to its hexadecimal representation using bit manipulation | [abhi.java](TCS/abhi.java) |
 
 ---
 
