@@ -1,4 +1,4 @@
-package radware;
+package Radware;
 import java.util.Scanner;
 public class pathparallelogram {
     public static void main(String[]args){
