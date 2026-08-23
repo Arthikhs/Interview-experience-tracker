@@ -1,4 +1,4 @@
-package radware;
+package Radware;
 
 import java.util.Arrays;
 

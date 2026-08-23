@@ -1,5 +1,5 @@
 
-package traczxn;
+package Traczxn;
 import java.util.Scanner;
 
 public class substringfrequency  {
